@@ -17,6 +17,8 @@
   top:150px;
   height:34px;
   width:40%;
+  font-style: sans-serif;
+  font-size: 13px;
 }
 
 ul {
@@ -41,6 +43,26 @@ li a {
 
 li a:hover {
   text-decoration:underline;
+}
+
+.user button {
+  position: relative;
+  top:0px;
+  border-radius:50%;
+  color: white;
+  background-color:#6B8E23;
+  border:none;
+  text-align:center;
+  font-size:15px;
+  font-family:sans-serif;
+  font-weight:100;
+  width:33px;
+  height:33px;
+}
+
+.appslogo {
+  position:relative;
+  top:-4px;
 }
 
 .footer{
